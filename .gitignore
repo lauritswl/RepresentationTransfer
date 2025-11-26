@@ -1,0 +1,4 @@
+# Ignore everything inside data/embeddings/
+data/embeddings/*
+# But keep the directory itself
+!data/embeddings/
